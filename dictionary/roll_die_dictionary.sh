@@ -1,4 +1,4 @@
-#! /bin/bash 
+#! /usr/local/bin/bash 
 
 diceResult=(0 0 0 0 0 0 0)
 
